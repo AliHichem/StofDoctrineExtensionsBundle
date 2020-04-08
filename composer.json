@@ -7,6 +7,10 @@
     "license": "MIT",
     "authors": [
         {
+            "name": "Hichem Ali",
+            "email": "ali.hichem@email.com"
+        },
+        {
             "name": "Christophe Coevoet",
             "email": "stof@notk.org"
         }
